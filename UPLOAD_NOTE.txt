@@ -1,0 +1,1 @@
+This package contains the revised lab manual PDF and 17 C source programs. The connected GitHub integration allowed read access but returned HTTP 403 for file writes, so these files have not been committed to the GitHub repository. The repository URL is https://github.com/sajjadshaikh-bit/Sajjad-C-Programming-Lab-2026-27.
